@@ -1,0 +1,10 @@
+body {
+  direction: rtl;
+  margin: 0;
+}
+.v-application {
+  & * {
+    font-family: IRANSans !important;
+    outline: none !important;
+  }
+}
